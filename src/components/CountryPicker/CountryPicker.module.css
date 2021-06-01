@@ -2,3 +2,10 @@
     width: 30%;
     margin-bottom: 30px !important;
   }
+  h2{
+      text-align: center;
+      padding-bottom: 2rem;
+  }
+  p{
+      text-align: center;
+  }
